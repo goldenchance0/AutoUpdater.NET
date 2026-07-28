@@ -204,7 +204,8 @@ AutoUpdater.Mandatory = true;
 You can enable forced updates by setting Mandatory property to true and setting UpdateMode to value of `Mode.Forced` or
 `Mode.ForcedDownload`. `Mode.Forced` option will hide Remind Later, Skip, and Close buttons on the standard update
 dialog. `Mode.ForcedDownload` option will skip the standard update dialog and start downloading and updating the
-application without user interaction. `Mode.ForceDownload` option will also ignore value of OpenDownloadPage flag.
+application without user interaction. `Mode.ForceDownload` option will also ignore the value of the OpenDownloadPage
+flag.
 
 ````csharp
 AutoUpdater.Mandatory = true;

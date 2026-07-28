@@ -34,7 +34,7 @@ deploy:
     description: '// TODO: Write Release Notes'
     artifact: AutoUpdater.NET-%my_version%.zip
     auth_token:
-      secure: 7mWsHdYoJjOZChmTq6NVAycMaurs/tAoHZUG6nBmdNKHLtqJ4c58mItRuSKUMJua
+      secure: HOCaWtrTHBv9VTEUi26vpQbmsE9nuzOOIM6ZmL8hLvg0Rn5yX88cURvCqerXF4bm
     draft: false
     prerelease: false
     on:
